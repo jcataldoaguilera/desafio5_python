@@ -146,5 +146,7 @@ TIP: El operador in podría ser de utilidad acá ya que es capaz de detectar tro
 string. Por ejemplo:
 ```python
 'gato' in 'hay un gato acá'
+```
+```python
 True
 ```
