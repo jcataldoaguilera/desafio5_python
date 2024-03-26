@@ -14,10 +14,13 @@ la tienda (un diccionario), se solicita implementar una función que permita ent
 siguiente:
 
 ● Un diccionario con los productos que cumplen una cierta condición dado un umbral
+
 ● La función debe permitir mostrar los valores mayor que o menor que un umbral
 (siempre estrictos).
+
 ● Por defecto la función debe siempre mostrar los valores mayor que el umbral a menos
 que se indique lo contrario.
+
 Para desarrollar la funcionalidad se le entrega a usted un diccionario de prueba para verificar
 sus resultados.
 ```python
